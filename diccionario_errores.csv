@@ -1,0 +1,52 @@
+Codigo,Nombre,Nivel
+WCAG2AA.Principle1.Guideline1_1.1_1_1,Non-text Content,A
+WCAG2AA.Principle1.Guideline1_2.1_2_1,Audio-only and Video-only (Prerecorded),A
+WCAG2AA.Principle1.Guideline1_2.1_2_2,Captions (Prerecorded),A
+WCAG2AA.Principle1.Guideline1_2.1_2_4,Captions (Live),AA
+WCAG2AA.Principle1.Guideline1_2.1_2_5,Audio Description (Prerecorded),AA
+WCAG2AA.Principle1.Guideline1_3.1_3_1,Info and Relationships,A
+WCAG2AA.Principle1.Guideline1_3.1_3_1_A,Info and Relationships,A
+WCAG2AA.Principle1.Guideline1_3.1_3_2,Meaningful Sequence,A
+WCAG2AA.Principle1.Guideline1_3.1_3_3,Sensory Characteristics,A
+WCAG2AA.Principle1.Guideline1_3.1_3_4,Orientation,AA
+WCAG2AA.Principle1.Guideline1_3.1_3_5,Identify Input Purpose,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_1,Use of Color,A
+WCAG2AA.Principle1.Guideline1_4.1_4_10,Reflow,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_11,Non-text Contrast,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_12,Text Spacing,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_13,Content on Hover or Focus,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_2,Audio Control,A
+WCAG2AA.Principle1.Guideline1_4.1_4_3,Contrast (Minimum),AA
+WCAG2AA.Principle1.Guideline1_4.1_4_3_F24,C. Contrast (Minimum),AA
+WCAG2AA.Principle1.Guideline1_4.1_4_4,Resize Text,AA
+WCAG2AA.Principle1.Guideline1_4.1_4_5,Images of Text,AA
+WCAG2AA.Principle2.Guideline2_1.2_1_1,Keyboard,A
+WCAG2AA.Principle2.Guideline2_1.2_1_2,No Keyboard Trap,A
+WCAG2AA.Principle2.Guideline2_1.2_1_4,Character Key Shortcuts,A
+WCAG2AA.Principle2.Guideline2_2.2_2_1,Timing Adjustable,A
+WCAG2AA.Principle2.Guideline2_2.2_2_2,Pause. Stop. Hide,A
+WCAG2AA.Principle2.Guideline2_3.2_3_1,Three Flashes or Below Threshold,A
+WCAG2AA.Principle2.Guideline2_4.2_4_1,Bypass Blocks,A
+WCAG2AA.Principle2.Guideline2_4.2_4_2,Page Titled,A
+WCAG2AA.Principle2.Guideline2_4.2_4_3,Focus Order,A
+WCAG2AA.Principle2.Guideline2_4.2_4_4,Link Purpose (In Context),A
+WCAG2AA.Principle2.Guideline2_4.2_4_5,Multiple Ways,AA
+WCAG2AA.Principle2.Guideline2_4.2_4_6,Headings and Labels,AA
+WCAG2AA.Principle2.Guideline2_4.2_4_7,Focus Visible,AA
+WCAG2AA.Principle2.Guideline2_5.2_5_1,Pointer Gestures,A
+WCAG2AA.Principle2.Guideline2_5.2_5_2,Pointer Cancellation,A
+WCAG2AA.Principle2.Guideline2_5.2_5_3,Label in Name,A
+WCAG2AA.Principle2.Guideline2_5.2_5_4,Motion Actuation,A
+WCAG2AA.Principle3.Guideline3_1.3_1_1,Language of Page,A
+WCAG2AA.Principle3.Guideline3_1.3_1_2,Language of Parts,AA
+WCAG2AA.Principle3.Guideline3_2.3_2_1,On Focus,A
+WCAG2AA.Principle3.Guideline3_2.3_2_2,On Input,A
+WCAG2AA.Principle3.Guideline3_2.3_2_3,Consistent Navigation,AA
+WCAG2AA.Principle3.Guideline3_2.3_2_4,Consistent Identification,AA
+WCAG2AA.Principle3.Guideline3_3.3_3_1,Error Identification,A
+WCAG2AA.Principle3.Guideline3_3.3_3_2,Labels or Instructions,A
+WCAG2AA.Principle3.Guideline3_3.3_3_3,Error Suggestion,AA
+WCAG2AA.Principle3.Guideline3_3.3_3_4,Error Prevention (Legal. Financial. Data),AA
+WCAG2AA.Principle4.Guideline4_1.4_1_1,Parsing,A
+WCAG2AA.Principle4.Guideline4_1.4_1_2,Name. Role. Value,A
+WCAG2AA.Principle4.Guideline4_1.4_1_3,Status Messages,AA
